@@ -1,0 +1,3 @@
+# ./terraform/jinja_config
+
+{% set enabled_regions = ['us-east-2', 'us-west-1', 'us-west-2', 'eu-west-1', 'ap-south-1'] %}
