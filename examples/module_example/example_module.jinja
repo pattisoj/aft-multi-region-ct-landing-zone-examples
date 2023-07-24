@@ -1,0 +1,12 @@
+# example_module.jinja
+
+{% import 'jinja_config' as settings %}
+
+{% for region in settings.enabled_regions %}
+module "example_module_{{ region }}" {
+  source = "./modules/example"
+  providers = {
+    aws = aws.{{ region }}
+  }
+}
+{% endfor %}
