@@ -1,0 +1,4 @@
+# ./terraform/jinja_config
+
+{% set provider_regions = ['us-east-2', 'us-west-1', 'us-west-2', 'eu-west-1', 'ap-south-1'] %}
+{% set resource_regions = ['us-east-2', 'us-west-1', 'us-west-2', 'eu-west-1'] %}
