@@ -3,7 +3,7 @@
 # A better way of using AFT in a multi-region CT Landing Zone
 
 
-[![Blog Post Badge](https://img.shields.io/badge/Blog%20Post-00A86A?style=flat-square&logo=medium&logoColor=white)]()
+[![Blog Post Badge](https://img.shields.io/badge/Blog%20Post-00A86A?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@joshpattison23/a-better-way-of-using-aft-in-a-multi-region-ct-landing-zone-e8482ef72ea)
 ![Stars](https://img.shields.io/github/stars/pattisoj/aft-multi-region-ct-landing-zone-examples?style=flat-square)
 ![MIT License](https://img.shields.io/github/license/pattisoj/aft-multi-region-ct-landing-zone-examples?style=flat-square)
 
@@ -27,7 +27,7 @@
 
 ## About The Repository
 
-This repository contains examples that relate to, and extend on, my Medium Blog Post - [A better way of using AFT in a multi-region CT Landing Zone](). 
+This repository contains examples that relate to, and extend on, my Medium Blog Post - [A better way of using AFT in a multi-region CT Landing Zone](https://medium.com/@joshpattison23/a-better-way-of-using-aft-in-a-multi-region-ct-landing-zone-e8482ef72ea). 
 
 Although this is detailed in my blog post, here is the command that AFT runs in order to turn Jinja files into Terraform -
 
